@@ -16,7 +16,7 @@ The GPIO module has two boards inside.
  * connects to board 'B'
 
 **Board 'A'**
-![](docs/CNMB3-A.png)
+![](docs/CNMB3A.png)
 
 
 #### Board 'B'
@@ -41,7 +41,7 @@ The socket labels are as follows:
 * B = relay N0
   
 **Board 'B'**
-![](docs/CNMB3-B.png)
+![](docs/CNMB3B.png)
 
 
 ## System Overview
